@@ -99,14 +99,17 @@ Full roast mode with creative comparisons
 
 ## 🎵 Music Recommendations
 
-The app includes curated YouTube playlists for each mood:
-- **Upbeat Energy Boosters** (for when you're detected as sad)
-- **Melancholy Mood Music** (for when you're detected as happy)
-- **Peaceful Relaxation Sounds** (for when you're detected as angry)
-- **Boss Mode Anthems** (for when you're detected as fearful)
-- **Monotone Minimalism** (for when you're detected as surprised)
-- **Content & Cozy Vibes** (for when you're detected as disgusted)
-- **Hype Train Express** (for when you're detected as neutral)
+The app includes real curated YouTube playlists for each mood:
+- **Sad Songs to Balance Your Joy** (for when you're detected as happy)
+- **Happy Pop Hits** (for when you're detected as sad)
+- **Calm Chillhop Beats** (for when you're detected as angry)
+- **Rage Rock & Metal** (for when you're detected as calm)
+- **Confident Pop Anthems** (for when you're detected as fearful)
+- **Awkward Slow Jams** (for when you're detected as confident)
+- **Crazy Energetic Hits** (for when you're detected as bored)
+- **Slow Ambient Chill** (for when you're detected as excited)
+- **Soft Love Songs** (for when you're detected as disgusted/satisfied)
+- **Cringe Bangers** (for when you're detected as content)
 
 ## 🛠 Technical Details
 
