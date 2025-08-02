@@ -1,5 +1,11 @@
 # 🎭 The Unhelpful Mood Mixer
+### Team Name: [Name]
 
+
+### Team Members
+- Team Lead: [Yadunand A K] - [RIT Kottayam]
+- Member 2: [Neeraj Bijoy] - [RIT Kottayam]
+### Project Description
 A humorous web application that analyzes your facial emotions and responds with witty, mildly mocking comments while recommending YouTube playlists for the *opposite* of your current mood. Because sometimes you need to be told your happiness is too loud! 😄
 
 ## 🌟 Features
