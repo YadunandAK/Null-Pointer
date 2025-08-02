@@ -155,6 +155,19 @@ YOUTUBE_PLAYLISTS["mood"] = {
     "description": "Your description"
 }
 ```
+# Screenshots (Add at least 3)
+<img width="1902" height="908" alt="sc1" src="https://github.com/user-attachments/assets/ae67faba-0e0b-436a-8e3f-b99c98cc2de1" />
+Sassy mode
+
+
+<img width="1882" height="907" alt="sc12" src="https://github.com/user-attachments/assets/d787d5ec-fa16-44ef-9f0a-f802604f3bce" />
+
+Polite mode
+
+
+<img width="1902" height="912" alt="sc113" src="https://github.com/user-attachments/assets/7f2b0c1a-962e-4cce-94ae-e64ae185100f" />
+
+Roastmaster
 
 ## 🚨 Disclaimers
 
