@@ -1,5 +1,5 @@
 # 🎭 The Unhelpful Mood Mixer
-### Team Name: [Name]
+### Team Name: [Null Pointer]
 
 
 ### Team Members
